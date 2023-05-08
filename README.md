@@ -1,8 +1,17 @@
 # Smart-Contract
-**Solidity Smart Contract was created, complied, debugged, and deployed (ran transactions) for my step by step presentation.** 
+
+**This smart contract was written in Solidity. Unfamiliar with Solidity? Here's some helpful information from their documentation:** 
+
+>Solidity is an object-oriented, high-level language for implementing smart contracts. 
+>Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
+>Solidity is a curly-bracket language designed to target the Ethereum Virtual Machine (EVM). 
+>It is influenced by C++, Python and JavaScript. 
+>Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features.
+
 \
 \
-**Original Contract** 
+**Original Contract**
+Smart Contract written in Solidity was complied, debugged, and deployed (ran transactions)
 \
 \
  ![contract](https://user-images.githubusercontent.com/95890754/236652303-a2d22c60-5f7b-4334-b7a5-44f9277a3f2d.png)
@@ -12,7 +21,7 @@
 **Refactored Contract**
 \
 \
-*Comments left for notation of what I refactored from original contract for prsentation purposes.*   
+*Comments left for notation of what I refactored from original contract for presentation purposes.*   
 \
 \
 ![refactored w comments](https://user-images.githubusercontent.com/95890754/236652305-a0682148-69dc-4d61-9b67-8f4b979ad3dc.png)
@@ -23,7 +32,4 @@
 \
 \
 ![refactored code](https://user-images.githubusercontent.com/95890754/236652534-2f2fafe8-b7a2-4761-a44a-3bdee587a8a3.png)
-\
-\
-\
-**Full Contract** 
+ 
