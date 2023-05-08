@@ -11,7 +11,7 @@
 \
 \
 **Original Contract**
-Smart Contract written in Solidity was complied, debugged, and deployed (ran transactions)
+Smart Contract written in Solidity was complied, debugged, and deployed (ran transactions)through Remix local IDE
 \
 \
  ![contract](https://user-images.githubusercontent.com/95890754/236652303-a2d22c60-5f7b-4334-b7a5-44f9277a3f2d.png)
