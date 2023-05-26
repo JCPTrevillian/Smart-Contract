@@ -10,6 +10,10 @@
 
 \
 \
+**This was my first smart contract. It is minimal/basic, yet afforded me the opportunity to understand (high level) smart contracts end to end by constructing, refactoring, compiling, and deploying one.** 
+
+\
+\
 **Original Contract**
 Smart Contract written in Solidity was complied, debugged, and deployed (ran transactions)through Remix local IDE
 \
